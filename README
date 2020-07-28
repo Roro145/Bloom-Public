@@ -1,0 +1,4 @@
+Some functions for Bloom - Finance App
+
+Uses a Hidden Markov Model and Viterbi algorithm to front run potential changes in user preferences. 
+Mutual friend matching system by applying a breadth-first search.
